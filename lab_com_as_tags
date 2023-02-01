@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Primeiro HTML</title>
+</head>
+<body>
+<h1>Principais tags HTML</h1>
+<h3>Para meu primeiro projeto HTML na plataforma GitHub e também na plataforma DIO, listei algumas das tags mais utilizadas em HTML:</h3>
+<ul id="inicio">
+<li><a href="#Head"> Head </a></li>
+<li><a href="#Body"> Body </a></li>
+<li><a href="#Title"> Title </a></li>
+<li><a href="#Strong"> Strong </a></li>
+<li><a href="#Mark"> Mark </a></li>
+<li><a href="#Div"> Div </a></li>
+<li><a href="#Nav"> Nav </a></li>
+<li><a href="#Ol"> Ol </a></li>
+<li><a href="#Ul"> Ul </a></li>
+<li><a href="#A"> A </a></li>
+<li><a href="#Inputtype"> Input Type </a></li>
+</ul>
+
+<h3 id="Head">Head</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Utilizada para definir o começo e o fim de um cabeçalho de documento. Seu conteúdo não aparece no corpo da página.</p>
+
+<h3 id="Body">Body</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Indica para o navegador o corpo do documento HTLM, que é a parte principal da página.</p>
+
+<h3 id="Title">Title</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Define o título do documento; seu conteúdo nomeia a aba da página no navegador, e não aparece no corpo da página.</p>
+
+<h3 id="Strong">Strong</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Formata o texto em <strong>negrito</strong>.</p>
+
+<h3 id="Mark">Mark</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Formata o texto com <mark>marcação</mark>.</p>
+
+<h3 id="Div">Div</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Define um bloco inteiro de conteúdo. Serve para organizar elementos na página.</p>
+
+<h3 id="Nav">Nav</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Representa seção com conjunto de links de navegação, dentro do documento atual ou para outros.</p>
+
+<h3 id="Ol">Ol</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Cria lista ordenada numericamente.</p>
+
+<h3 id="Ul">Ul</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Cria lista desordenada, apontada apenas por marcadores.</p>
+
+<h3 id="A">A</h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Cria um link e atribui elementos a ele, como href (vincula a URL do documento a algo); name (nome âncora) e target (indica se o link é aberto na mesma janela -self- ou em nova aba - blank).</p>
+
+<h3 id="InputType">Input Type </h3>
+<h6><a href="#inicio"> << Voltar </a></h6>
+<p>Cria um campo para receber dados, sendo o tipo/type de dado diferenciado pelo atributo text ou number ou color etc.</p>
+
+</body>
+</html>
